@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlastSearch", "BlastSearch\BlastSearch.csproj", "{9D43C5AF-802D-4994-BACC-DC0B8D4EA2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlastDll-Client", "BlastDll-Client\BlastDll-Client.csproj", "{75A21F8C-D49A-4FFC-B2C4-921FB647739A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.201.20.91:8080/tfs/code
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BlastDll-Client\\BlastDll-Client.csproj
+		SccProjectName1 = BlastDll-Client
+		SccLocalPath1 = BlastDll-Client
+		SccProjectUniqueName2 = BlastSearch\\BlastSearch.csproj
+		SccProjectName2 = BlastSearch
+		SccLocalPath2 = BlastSearch
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D43C5AF-802D-4994-BACC-DC0B8D4EA2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D43C5AF-802D-4994-BACC-DC0B8D4EA2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D43C5AF-802D-4994-BACC-DC0B8D4EA2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D43C5AF-802D-4994-BACC-DC0B8D4EA2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A21F8C-D49A-4FFC-B2C4-921FB647739A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A21F8C-D49A-4FFC-B2C4-921FB647739A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A21F8C-D49A-4FFC-B2C4-921FB647739A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A21F8C-D49A-4FFC-B2C4-921FB647739A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
